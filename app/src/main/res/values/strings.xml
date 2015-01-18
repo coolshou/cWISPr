@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">cWISPr</string>
+    
+    <string name="strServiceType">Service Type:</string>
+    <string name="strServiceName">Service Name:</string>
+    <string name="strSSID">SSID Name:</string>
+    <string name="strFullyMatch">Fully Match</string>
+    <string name="strCaseSensitive">Case Sensitive</string>
+    <string name="strUsername">Username:</string>
+    <string name="strPassword">Password:</string>
+
+    <string name="menuContextHeader">Action</string>
+    <string name="menuContextModify">Modify</string>
+    <string name="menuContextDelete">Delete</string>
+    <string name="menuOptionWeb">Web</string>
+    <string name="menuOptionMarket" translatable="false">Market</string>
+    <string name="menuOptionViewLog">View Log</string>
+    <string name="menuOptionDebug">Debug</string>
+
+    <string name="strDisableWifi">Disable Wi-Fi</string>
+    <string name="strEnableWifi">Enable Wi-Fi</string>
+    <string name="strWifiStatusEnabling">Enabling</string>
+    <string name="strWifiStatusEnabled">Enabled</string>
+    <string name="strWifiStatusDisabling">Disabling</string>
+    <string name="strWifiStatusDisabled">Disabled</string>
+    <string name="strWifiStatusUnknown">Unknown</string>
+    <string name="strWisprConnect">WISPr Connect</string>
+    <string name="strWisprDisonnect">WISPr Disconnect</string>
+    <string name="strWifiSetting">Wi-Fi Settings</string>
+    <string name="strLongPressHelp">Long Press to Popup Context Menu</string>
+    <string name="strAutoLogin">Auto Login</string>
+    <string name="strAddButton">Add Service</string>
+    <string name="strResetLog">Reset Log</string>
+    <string name="strStartLogin">Start Login: </string>
+    <string name="strLogoff">Logoff: </string>
+    <string name="strConnected">: Connected</string>
+    <string name="strLoginFailure">Login Failed</string>
+    <string name="strNoWispr">No WISPr Service</string>
+    <string name="strInternalError">Internal Error</string>
+    <string name="strConnectSuccess">: Connection Succeed</string>
+    <string name="strConnectFailed">: Connection Failed</string>
+    <string name="strConnectAlready">: Already Connected</string>
+    <string name="strGenericWispr">Generic WISPr</string>
+    <string name="strTaiwanPublicWispr">Taiwan Wi-Fi</string>
+    <string name="strPickServiceType">Pick Service Type</string>
+    <string name="strEmptyUserName">User name cannot be empty</string>
+    <string name="strEmptyPassword">Password cannot be empty</string>
+    <string name="strEmptyService">Service name cannot be empty</string>
+    <string name="strEmptySSID">SSID cannot be empty</string>
+    <string name="strGenericConfigure">Generic WISPr Configuration</string>
+    <string name="strTaiwanPublicConfigure">Taiwan WiFi Configuration</string>
+    <string name="strTryConnectNotFound">No valid SSID config found</string>
+    <string name="strTryConnectNow">Trying to connect wireless service…</string>
+
+    <string name="tabStatus">Status</string>
+    <string name="tabSetting">Setting</string>
+    <string name="tabAbout">About</string>
+    <string name="tabHelp">Help</string>
+    <string name="strCopyRight" translatable="false">©2015 . All Rights Reserved.</string>
+    <string name="strAboutInfo" translatable="false">cWISPr is a Wi-Fi WISPr (Wireless Internet Service Provider roaming) client and connection manager</string>
+    <string name="strAboutVersion" translatable="false">cWISPr Version 0.0</string>
+    <string name="strLogView" translatable="false">Log view</string>
+    <string name="strLogGo" translatable="false">Go</string>
+    <string name="strServiceName2">Service Name</string>
+    <string name="strEMail">E-Mail</string>
+    <string name="strMACAddress" translatable="false">MAC Address:</string>
+    <string name="strMACAddrDEFAULT" translatable="false">00:00:00:00:00:00</string>
+    <string name="strIPAddress" translatable="false">IP Address:</string>
+    <string name="strStatus">Status:</string>
+    <string name="strConnecting">Connecting</string>
+    <string name="strLogo" translatable="false">cWISPr Logo</string>
+    <string name="strSSIDtag" translatable="false">SSID:</string>
+    
+</resources>

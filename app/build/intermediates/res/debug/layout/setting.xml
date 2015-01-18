@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:orientation="vertical"
+        >
+    <ListView android:id="@+id/serviceList"
+              android:layout_height="fill_parent"
+              android:layout_width="fill_parent"
+              android:layout_weight="1"
+              android:transcriptMode="normal"
+            />
+    <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/strLongPressHelp"
+            android:layout_weight="0"
+            />
+    <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+        >
+        <CheckBox
+                android:layout_height="wrap_content"
+                android:layout_width="fill_parent"
+                android:layout_weight="1"
+                android:id="@+id/buttonActive"
+                android:text="@string/strAutoLogin"
+                />
+        <Button
+                android:layout_height="wrap_content"
+                android:layout_width="fill_parent"
+                android:id="@+id/buttonAdd"
+                android:text="@string/strAddButton"
+                android:layout_weight="1"
+                />
+    </LinearLayout>
+
+</LinearLayout><!-- From: file:/home/coolshou/ADT/AndroidStudio-project/cWISPr/app/src/main/res/layout/setting.xml -->

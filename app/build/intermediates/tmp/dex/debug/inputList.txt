@@ -1,0 +1,5 @@
+/home/coolshou/ADT/AndroidStudio-project/cWISPr/app/build/intermediates/classes/debug
+/home/coolshou/ADT/AndroidStudio-project/cWISPr/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-ac05fb168d754a9f0dfdcb178ff04d43e096f25f.jar
+/home/coolshou/ADT/AndroidStudio-project/cWISPr/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-e21bdf5d7b1f90991c4ec886b76520fded40c13d.jar
+/home/coolshou/ADT/AndroidStudio-project/cWISPr/app/build/intermediates/pre-dexed/debug/classes-ea16f4d0fe21972ffcc676724eaa9c6805fff73b.jar
+/home/coolshou/ADT/AndroidStudio-project/cWISPr/app/build/intermediates/pre-dexed/debug/libGoogleAnalyticsServices-2379bc1603c311aeacd1d159eb19a6b37b0ad350.jar

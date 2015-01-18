@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/coolshou/ADT/AndroidStudio-project/cWISPr/app/libs/libGoogleAnalyticsServices.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e887c6c9b31b39a39b0eaba981448b78902ea813">
+        <dex dex="/home/coolshou/ADT/AndroidStudio-project/cWISPr/app/build/intermediates/pre-dexed/debug/libGoogleAnalyticsServices-2379bc1603c311aeacd1d159eb19a6b37b0ad350.jar" />
+    </item>
+    <item
+        jar="/home/coolshou/ADT/AndroidStudio-project/cWISPr/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/coolshou/ADT/AndroidStudio-project/cWISPr/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-e21bdf5d7b1f90991c4ec886b76520fded40c13d.jar" />
+    </item>
+    <item
+        jar="/home/coolshou/ADT/AndroidStudio-project/cWISPr/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/coolshou/ADT/AndroidStudio-project/cWISPr/app/build/intermediates/pre-dexed/debug/classes-ea16f4d0fe21972ffcc676724eaa9c6805fff73b.jar" />
+    </item>
+    <item
+        jar="/home/coolshou/ADT/adt-bundle-linux-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/coolshou/ADT/AndroidStudio-project/cWISPr/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-ac05fb168d754a9f0dfdcb178ff04d43e096f25f.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/coolshou/ADT/AndroidStudio-project/cWISPr/app/src/main/res/values-zh-rTW/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">cWISPr</string>
+    <string name="menuContextDelete">刪除</string>
+    <string name="menuContextHeader">動作</string>
+    <string name="menuContextModify">編輯</string>
+    <string name="menuOptionDebug">除錯</string>
+    <string name="menuOptionMarket">Market</string>
+    <string name="menuOptionViewLog">檢視記錄</string>
+    <string name="menuOptionWeb">前往網站</string>
+    <string name="strAddButton">新增服務</string>
+    <string name="strAutoLogin">自動登入服務</string>
+    <string name="strCaseSensitive">大小寫吻合</string>
+    <string name="strConnectAlready">: 無需驗證已經連線</string>
+    <string name="strConnectFailed">: 連線/驗證失敗</string>
+    <string name="strConnectSuccess">: 連線驗證成功</string>
+    <string name="strConnected">: 已連線</string>
+    <string name="strConnecting">連線中</string>
+    <string name="strDisableWifi">停用 Wi-Fi</string>
+    <string name="strEMail">電子郵件</string>
+    <string name="strEmptyPassword">密碼不能是空白</string>
+    <string name="strEmptySSID">SSID 不能是空白</string>
+    <string name="strEmptyService">服務名稱不能是空白</string>
+    <string name="strEmptyUserName">使用者名稱不能是空白</string>
+    <string name="strEnableWifi">啟用 Wi-Fi</string>
+    <string name="strFullyMatch">名稱吻合 </string>
+    <string name="strGenericConfigure">WISPr 設定</string>
+    <string name="strGenericWispr">一般 WISPr</string>
+    <string name="strInternalError">內部錯誤</string>
+    <string name="strLoginFailure">登入服務失敗</string>
+    <string name="strLogoff">登出: </string>
+    <string name="strLongPressHelp">長按畫面以跳出內容選單</string>
+    <string name="strNoWispr">沒有 WISPr 服務</string>
+    <string name="strPassword">登入密碼:</string>
+    <string name="strPickServiceType">選擇服務種類</string>
+    <string name="strResetLog">重設記錄</string>
+    <string name="strSSID">SSID 名稱:</string>
+    <string name="strServiceName">服務名稱:</string>
+    <string name="strServiceName2">服務名稱</string>
+    <string name="strServiceType">類別:</string>
+    <string name="strStartLogin">開始登入: </string>
+    <string name="strStatus">狀態:</string>
+    <string name="strTaiwanPublicConfigure">Taiwan WiFi 設定</string>
+    <string name="strTaiwanPublicWispr">台灣 Wi-Fi</string>
+    <string name="strTryConnectNotFound">找不到相對應的SSID設定</string>
+    <string name="strTryConnectNow">正在嘗試連接無線網路服務中</string>
+    <string name="strUsername">使用者名稱:</string>
+    <string name="strWifiSetting">Wi-Fi 設定</string>
+    <string name="strWifiStatusDisabled">停用</string>
+    <string name="strWifiStatusDisabling">正在停用中</string>
+    <string name="strWifiStatusEnabled">已啟用</string>
+    <string name="strWifiStatusEnabling">正在啟用中</string>
+    <string name="strWifiStatusUnknown">未知/無法使用</string>
+    <string name="strWisprConnect">WISPr 連線</string>
+    <string name="strWisprDisonnect">WISPr 斷線</string>
+    <string name="tabAbout">關於</string>
+    <string name="tabHelp">輔助</string>
+    <string name="tabSetting">設定</string>
+    <string name="tabStatus">狀態</string>
+</resources>

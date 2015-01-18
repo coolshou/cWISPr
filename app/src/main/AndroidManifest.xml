@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="idv.coolshou.wispr"
+      android:installLocation="auto"
+      android:versionCode="1"
+      android:versionName="2.0.0">
+     <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <uses-feature android:name="android.hardware.wifi" android:required="true" />
+    <uses-sdk android:minSdkVersion="11" android:targetSdkVersion="21" />
+   
+    <application android:allowBackup="true" android:label="@string/app_name" android:icon="@drawable/icon" >
+        <activity android:name="MyActivity"
+                  android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="StatusActivity" />
+        <activity android:name="SettingActivity" />
+        <activity android:name="AboutActivity" />
+        <activity android:name="AppLogViewActivity" />
+        <activity android:name="DebugActivity" />
+        <activity android:name="HelpActivity" />
+        <receiver android:name="WifiConnectivityReceiver" android:enabled="true">
+            <intent-filter>
+                <action android:name="android.net.wifi.STATE_CHANGE" />
+                <action android:name="android.net.wifi.WIFI_STATE_CHANGED" />
+            </intent-filter>
+        </receiver>
+
+        <service android:name="idv.coolshou.wispr.service.WISPrLoginService" />
+    </application>
+    
+
+
+</manifest> 

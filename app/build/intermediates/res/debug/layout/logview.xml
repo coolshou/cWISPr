@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:orientation="vertical"
+        >
+    <ScrollView android:layout_height="fill_parent"
+                android:layout_width="fill_parent"
+                android:layout_weight="20"
+            >
+        <TextView
+                android:id="@+id/textLogView"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/strLogView"
+                android:singleLine="false"
+                android:typeface="monospace"
+                android:autoLink="all"
+                android:clickable="true"
+                android:textIsSelectable="true"
+                android:longClickable="true"
+                android:focusable="true"
+                android:focusableInTouchMode="true"
+                />
+    </ScrollView>
+    <LinearLayout
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent"
+            android:orientation="horizontal"
+            android:layout_weight="1"
+            >
+        <Button android:id="@+id/textLogReset"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/strResetLog"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_weight="1"
+                />
+        <Button android:id="@+id/textLogEmailButton"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/strEMail"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_weight="1"
+                />
+    </LinearLayout>
+</LinearLayout>
+<!-- From: file:/home/coolshou/ADT/AndroidStudio-project/cWISPr/app/src/main/res/layout/logview.xml -->
